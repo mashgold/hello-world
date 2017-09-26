@@ -2,4 +2,4 @@
 
 The very First.
 
-Fianally I started GitHub. That's it.
+Finally I started GitHub. That's it.
